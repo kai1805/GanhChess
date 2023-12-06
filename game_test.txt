@@ -1,0 +1,142 @@
+The move is :  ((4, 3), (3, 3))  (in 581.67 ms) 
+====== The current board( 1 )is (after move): ======
+4 : r r r . r
+3 : r . . r r
+2 : r . . . b
+1 : b . . . b
+0 : b b b b b
+    0 1 2 3 4
+
+It is  1 's turn
+The move is :  ((0, 1), (1, 1))  (in 357.79 ms) 
+====== The current board( 2 )is (after move): ======
+4 : r r r . r
+3 : r . . r r
+2 : r . . . b
+1 : b b . . b
+0 : b . b b b
+    0 1 2 3 4
+
+It is  -1 's turn
+The move is :  ((3, 3), (3, 2))  (in 272.85 ms) 
+====== The current board( 3 )is (after move): ======
+4 : r r r . r
+3 : r . r . r
+2 : r . . . b
+1 : b b . . b
+0 : b . b b b
+    0 1 2 3 4
+
+It is  1 's turn
+The move is :  ((2, 4), (3, 3))  (in 924.47 ms) 
+====== The current board( 4 )is (after move): ======
+4 : r r r . r
+3 : r . b b b
+2 : r . . . .
+1 : b b . . b
+0 : b . b b b
+    0 1 2 3 4
+
+It is  -1 's turn
+The move is :  ((4, 2), (4, 3))  (in 225.87 ms) 
+====== The current board( 5 )is (after move): ======
+4 : r r . r r
+3 : r . b b b
+2 : r . . . .
+1 : b b . . b
+0 : b . b b b
+    0 1 2 3 4
+
+It is  1 's turn
+The move is :  ((3, 2), (4, 2))  (in 896.49 ms) 
+====== The current board( 6 )is (after move): ======
+4 : r b b b b
+3 : r . . b b
+2 : r . . . .
+1 : b b . . b
+0 : b . b b b
+    0 1 2 3 4
+
+It is  -1 's turn
+The move is :  ((2, 0), (2, 1))  (in 109.94 ms) 
+====== The current board( 7 )is (after move): ======
+4 : r b b b b
+3 : r . . b b
+2 : . r . . .
+1 : b b . . b
+0 : b . b b b
+    0 1 2 3 4
+
+It is  1 's turn
+The move is :  ((3, 3), (3, 2))  (in 514.70 ms) 
+====== The current board( 8 )is (after move): ======
+4 : r b b b b
+3 : r . b . b
+2 : . r . . .
+1 : b b . . b
+0 : b . b b b
+    0 1 2 3 4
+
+It is  -1 's turn
+The move is :  ((2, 1), (2, 2))  (in 210.88 ms) 
+====== The current board( 9 )is (after move): ======
+4 : r b b b b
+3 : r . b . b
+2 : . . r . .
+1 : b b . . b
+0 : b . b b b
+    0 1 2 3 4
+
+It is  1 's turn
+The move is :  ((4, 2), (3, 1))  (in 616.64 ms) 
+====== The current board( 10 )is (after move): ======
+4 : b b . b b
+3 : r b b . b
+2 : . . b . .
+1 : b b . . b
+0 : b . b b b
+    0 1 2 3 4
+
+It is  -1 's turn
+The move is :  ((3, 0), (2, 0))  (in 1.00 ms)
+====== The current board( 11 )is (after move): ======
+4 : b b . b b
+3 : . b b . b
+2 : r . b . .
+1 : b b . . b
+0 : b . b b b
+    0 1 2 3 4
+
+It is  1 's turn
+The move is :  ((2, 2), (2, 1))  (in 763.56 ms) 
+====== The current board( 12 )is (after move): ======
+4 : b b . b b
+3 : . b b . b
+2 : r b . . .
+1 : b b . . b
+0 : b . b b b
+    0 1 2 3 4
+
+It is  -1 's turn
+The move is :  ((2, 0), (3, 0))  (in 1.00 ms)
+====== The current board( 13 )is (after move): ======
+4 : b b . b b
+3 : r b b . b
+2 : . b . . .
+1 : b b . . b
+0 : b . b b b
+    0 1 2 3 4
+
+It is  1 's turn
+The move is :  ((2, 1), (2, 0))  (in 528.70 ms) 
+====== The current board( 14 )is (after move): ======
+4 : b b . b b
+3 : b b b . b
+2 : b . . . .
+1 : b b . . b
+0 : b . b b b
+    0 1 2 3 4
+
+It is  -1 's turn
+Game Over
+The Winner is: PLAYER_MAX - blue
